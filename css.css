@@ -1,0 +1,42 @@
+body{
+	
+font-family: "verdana", "Arial", sans-serif;
+	
+color: #AAFF00;
+	background-color: #ff33cc;
+	
+text-shadow: 1px 1px #ff0000;
+	text-align: center;
+
+}
+
+
+
+h1 {
+	
+font-size: 1.3em;
+	
+text-align: center;
+	
+text-shadow: 1px 1px #ff0000;
+
+}
+
+
+td, th {
+    
+border: 1px solid #dddddd;
+    
+text-align: left;
+    
+padding: 8px;
+
+}
+
+
+
+tr:nth-child(even) {
+    
+background-color: #dddddd;
+
+}
